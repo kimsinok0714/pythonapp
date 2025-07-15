@@ -1,1 +1,1 @@
-print('GoodBye, Remote!!')
+print('GoodBye, Local!!')
